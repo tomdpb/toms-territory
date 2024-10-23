@@ -1,6 +1,7 @@
 ---
 slug: about-me
 title: About Me
+author: Tom
 date: 2024-10-17
 lanaguage: en
 weight: 0
