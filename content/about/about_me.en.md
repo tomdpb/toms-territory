@@ -14,11 +14,9 @@ I'm passionate about music, natural sciences, computers and programming, languag
 
 ## Education
 
-I've studied music theory and violin at the Music School of Brasília (CEP-EMB) where I completed the basic in 2015 and graduated the violin technical course in 2019.
+I studied music theory and violin at the Music School of Brasília (CEP-EMB) where I completed the basic course in 2015 and carried on to graduate from the Violin, Technical course in 2019.
 
-I also started studying Physics at the University of Brasília (UnB) in 2018 before moving to Leipzig and studying Physics there at the University of Leipzig (Universität Leipzig). Along the way, I realised that Physics was not for me, and I finally switched to study a bachelor's degree in Computing and IT at the Open University in April 2024.
-
-I'm currently studying for a BSc. (Honours) in Computing and IT at The Open University.
+I also started studying Physics at the University of Brasília (UnB) in 2018 before moving to Leipzig and studying Physics there at the University of Leipzig (Universität Leipzig). Along the way, I realised that Physics was not for me, and I finally switched to study Computing and IT with the Open University where I'm currently studying for a BSc. (Honours).
 
 ## Spoken Languages
 
@@ -104,7 +102,7 @@ Type of work: Part time
 - Taught young students how to play the violin.
 - Arranged music to be played with the school orchestra.
 
-## Miscellaneous Skills
+## Miscellaneous Technical Skills
 
 These are some miscellaneous technologies and frameworks I've previously worked with.
 
