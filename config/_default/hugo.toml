@@ -1,0 +1,7 @@
+baseURL = 'https://tomdpb.github.io'
+languageCode = 'en-gb'
+title = "Tom's Territory"
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = false

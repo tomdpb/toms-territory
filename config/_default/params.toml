@@ -1,0 +1,9 @@
+autoSwitchAppearance = true
+footer.showAppearanceSwitcher = true
+enableCodeCopy = true
+
+article.showDate = true
+article.showTableOfContents = true
+article.showReadingTime = false
+
+homepage.layout = "profile"

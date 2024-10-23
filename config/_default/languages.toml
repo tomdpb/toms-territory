@@ -1,0 +1,11 @@
+[en.params]
+  languageName = "English"
+  languageCode = "en-GB"
+  title = "Tom's Territory"
+  author.name = "Tom de Paula"
+  author.image = "Tom.png"
+  author.links = [
+    {email = "mailto: plutomega@proton.me"},
+    {github = "https://github.com/tomdbp"},
+    {linkedin = "https://linkedin.com/in/thomas-de-paula-barbosa-17302b243"},
+]
