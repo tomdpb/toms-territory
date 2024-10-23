@@ -7,12 +7,12 @@ lanaguage: en
 weight: 0
 ---
 
-# Who am I?
+## Who am I?
 
 My name is Thomas de Paula Barbosa, though generally I just go by Tom. My main residence is in Germany, where I've been living since October 2019.
 I'm passionate about music, natural sciences, computers and programming, languages, and nature.
 
-# Education
+## Education
 
 I've studied music theory and violin at the Music School of Brasília (CEP-EMB) where I completed the basic in 2015 and graduated the violin technical course in 2019.
 
@@ -20,7 +20,7 @@ I also started studying Physics at the University of Brasília (UnB) in 2018 bef
 
 I'm currently studying for a BSc. (Honours) in Computing and IT at The Open University.
 
-# Spoken Languages
+## Spoken Languages
 
 I'm very interested in languages. I've done some research in many languages and scripting systems just out of curiosity. To this day I still remember how I learnt to read the Cyrillic alphabet while I was 14 and was supposed to be studying for a maths exam. Although I'd love to properly learn many more, the ones I currently speak are:
 
@@ -30,7 +30,7 @@ I'm very interested in languages. I've done some research in many languages and 
 - German (approximately C1 level)
 - Spanish (conversational)
 
-# Programming Languages
+## Programming Languages
 
 I've got different levels of experience with the following languages, and no, I not counting simple "Hello World!" programs!
 
@@ -47,9 +47,9 @@ I've got different levels of experience with the following languages, and no, I 
 - SQL
 - TypeScript
 
-# Work Experience
+## Work Experience
 
-## Data Analyst
+### Data Analyst
 
 Company: Abaxa
 
@@ -57,13 +57,13 @@ From 01/2024 to 03/2024
 
 Type of work: Contract
 
-### Tasks
+#### Tasks
 
 - Extract water pump data from manufacturer's website.
 - Analyse and calculate efficiency values.
 - Created a comprehensive and interactive report with the results.
 
-## Software Quality Assurance
+### Software Quality Assurance
 
 Company: [Staffbase S.E.](https://staffbase.com)
 
@@ -71,14 +71,14 @@ From 04/2023 to 05/2024
 
 Type of work: Part time working student
 
-### Tasks
+#### Tasks
 
 - Identify and report bugs to developers of different team.
 - Ensure that code followed documentation design flawlessly.
 - Documentation of the schema of an SQL database in Google BigQuery.
 - Create Grafana reports using datapoints extracted from Google BigQuery.
 
-## Software Engineer
+### Software Engineer
 
 Company: [Staffbase S.E.](https://staffbase.com)
 
@@ -86,12 +86,12 @@ From 06/2022 to 04/2023
 
 Type of work: Part time working student
 
-### Tasks
+#### Tasks
 
 - Frontend web developer.
 - Implementation of custom icons in the application.
 
-## Violin Teacher
+### Violin Teacher
 
 Company: [Affinity Arts International School](https://www.affinityarts.com.br/)
 
@@ -99,12 +99,12 @@ From 01/2018 to 09/2019
 
 Type of work: Part time
 
-### Tasks
+#### Tasks
 
 - Taught young students how to play the violin.
 - Arranged music to be played with the school orchestra.
 
-# Miscellaneous Skills
+## Miscellaneous Skills
 
 These are some miscellaneous technologies and frameworks I've previously worked with.
 
@@ -123,7 +123,7 @@ These are some miscellaneous technologies and frameworks I've previously worked 
 - [TestIO](https://test.io/)
 - [Trello](https://trello.com/)
 
-# Contact
+## Contact
 
 - Email: <plutomega@proton.me>
 - LinkedIn: [Thomas de Paula Barbosa](https://linkedin.com/in/thomas-de-paula-barbosa-17302b243)
