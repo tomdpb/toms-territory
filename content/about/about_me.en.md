@@ -30,7 +30,7 @@ I'm very interested in languages. I've done some research in many languages and 
 
 ## Programming Languages
 
-I've got different levels of experience with the following languages, and no, I not counting simple "Hello World!" programs!
+I've got different levels of experience with the following languages, and no, I'm not counting simple "Hello World!" programs!
 
 - Bash/Shell Scripting
 - C++
