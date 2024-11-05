@@ -125,6 +125,6 @@ These are some miscellaneous technologies and frameworks I've previously worked 
 
 - Email: <plutomega@proton.me>
 - LinkedIn: [Thomas de Paula Barbosa](https://linkedin.com/in/thomas-de-paula-barbosa-17302b243)
-- GitHub: [tomdbp](https://github.com/tomdpb)
-- GitLab: [tomdbp](https://gitlab.com/tomdpb)
+- GitHub: [tomdpb](https://github.com/tomdpb)
+- GitLab: [tomdpb](https://gitlab.com/tomdpb)
 - Support me on Ko-Fi: [tomdpb](https://ko-fi.com/tomdpb)

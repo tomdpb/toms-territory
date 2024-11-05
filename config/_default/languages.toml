@@ -6,6 +6,6 @@
   author.image = "Tom.png"
   author.links = [
     {email = "mailto: plutomega@proton.me"},
-    {github = "https://github.com/tomdbp"},
+    {github = "https://github.com/tomdpb"},
     {linkedin = "https://linkedin.com/in/thomas-de-paula-barbosa-17302b243"},
 ]
