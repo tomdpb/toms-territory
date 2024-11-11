@@ -106,6 +106,7 @@ Type of work: Part time
 
 These are some miscellaneous technologies and frameworks I've previously worked with.
 
+- [Ansible](https://www.ansible.com/)
 - [Hugo](https://gohugo.io)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
