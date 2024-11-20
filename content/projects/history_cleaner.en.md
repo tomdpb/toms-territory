@@ -1,7 +1,6 @@
 ---
 slug: history_file_cleaner
 title: "History File Cleaner"
-draft: true
 language: en
 author: Tom
 Date: 2024-11-20
@@ -23,7 +22,9 @@ Well, kind of. I just set a _cronjob_ to run the program once a day, so I don't 
 
 ## Functionality
 
-The [history file cleaner](https://github.com/tomdpb/history_file_cleaner) has one goal: remove lines in a history file that match regular expressions given in another file. Although the program is intended to work with history files, any file can be passed as an argument to the program. The used regex patterns are set in the `regex_patterns.txt` file which should be located in the same directory as the binary (which must be compiled by the user).
+The [history file cleaner](https://github.com/tomdpb/history_file_cleaner) has one goal: remove lines in a history file that match regular expressions given in another file. Although the program is intended to work with history files, any file can be passed as an argument to the program. The used regex patterns are set in the `regex_patterns.txt` file which should be passed to the binary (which must be compiled by the user) with the `--regexFile` flag.
+
+Be aware that the regex is very strict!
 
 ## Behind the Scenes
 
