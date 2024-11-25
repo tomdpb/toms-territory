@@ -2,7 +2,7 @@
 slug: about-me
 title: About Me
 author: Tom
-date: 2024-10-17
+date: 2024-11-17
 lanaguage: en
 weight: 0
 ---
@@ -17,33 +17,6 @@ I'm passionate about music, natural sciences, computers and programming, languag
 I studied music theory and violin at the Music School of Brasília (CEP-EMB) where I completed the basic course in 2015 and carried on to graduate from the Violin, Technical course in 2019.
 
 I also started studying Physics at the University of Brasília (UnB) in 2018 before moving to Leipzig and studying Physics there at the University of Leipzig (Universität Leipzig). Along the way, I realised that Physics was not for me, and I finally switched to study Computing and IT with the Open University where I'm currently studying for a BSc. (Honours).
-
-## Spoken Languages
-
-I'm very interested in languages. I've done some research in many languages and scripting systems just out of curiosity. To this day I still remember how I learnt to read the Cyrillic alphabet while I was 14 and was supposed to be studying for a maths exam. Although I'd love to properly learn many more, the ones I currently speak are:
-
-- English (native)
-- Portuguese (native)
-- Italian (fluent)
-- German (approximately C1 level)
-- Spanish (conversational)
-
-## Programming Languages
-
-I've got different levels of experience with the following languages, and no, I'm not counting simple "Hello World!" programs!
-
-- Bash/Shell Scripting
-- C++
-- GDScript
-- Go
-- JavaScript
-- Julia
-- LaTeX
-- Python
-- R
-- Rust
-- SQL
-- TypeScript
 
 ## Work Experience
 
@@ -101,6 +74,33 @@ Type of work: Part time
 
 - Taught young students how to play the violin.
 - Arranged music to be played with the school orchestra.
+
+## Spoken Languages
+
+I'm very interested in languages. I've done some research in many languages and scripting systems just out of curiosity. To this day I still remember how I learnt to read the Cyrillic alphabet while I was 14 and was supposed to be studying for a maths exam. Although I'd love to properly learn many more, the ones I currently speak are:
+
+- English (native)
+- Portuguese (native)
+- Italian (fluent)
+- German (approximately C1 level)
+- Spanish (conversational)
+
+## Programming Languages
+
+I've got different levels of experience with the following languages, and no, I'm not counting simple "Hello World!" programs!
+
+- Bash/Shell Scripting
+- C++
+- GDScript
+- Go
+- JavaScript
+- Julia
+- LaTeX
+- Python
+- R
+- Rust
+- SQL
+- TypeScript
 
 ## Miscellaneous Technical Skills
 
