@@ -20,6 +20,18 @@ I also started studying Physics at the University of Brasília (UnB) in 2018 bef
 
 ## Work Experience
 
+### IT Administration Specialist
+
+Company: Mementor
+
+From 01/2025
+
+Type of work: Full time
+
+#### Tasks
+
+- Stay tuned!
+
 ### Data Analyst
 
 Company: Abaxa
