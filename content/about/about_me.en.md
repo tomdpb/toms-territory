@@ -119,6 +119,7 @@ I've got different levels of experience with the following languages, and no, I'
 These are some miscellaneous technologies and frameworks I've previously worked with.
 
 - [Ansible](https://www.ansible.com/)
+- [Confluence](https://www.atlassian.com/software/confluence)
 - [Docker](https://www.docker.com/)
 - [Hugo](https://gohugo.io)
 - [Git](https://git-scm.com/)
