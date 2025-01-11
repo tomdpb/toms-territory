@@ -22,7 +22,7 @@ I also started studying Physics at the University of Brasília (UnB) in 2018 bef
 
 ### IT Administration Specialist
 
-Company: Mementor
+Company: [mementor](https://www.mementor.ch/)
 
 From 01/2025
 
