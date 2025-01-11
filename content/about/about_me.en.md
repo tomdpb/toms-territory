@@ -130,6 +130,7 @@ These are some miscellaneous technologies and frameworks I've previously worked 
 - [Jira](https://www.atlassian.com/software/jira)
 - [Jupyter Lab](https://jupyter.org/)
 - [Linux](https://www.linux.org/)
+- [Miro](https://miro.com/)
 - [Musescore](https://musescore.org/)
 - [Pluto.jl](https://plutojl.org/)
 - [Scrum](https://www.scrum.org/)
