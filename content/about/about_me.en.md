@@ -56,7 +56,7 @@ Type of work: Part time working student
 
 #### Tasks
 
-- Identify and report bugs to developers of different team.
+- Identify and report bugs to developers of different teams.
 - Ensure that code followed documentation design flawlessly.
 - Documentation of the schema of an SQL database in Google BigQuery.
 - Create Grafana reports using datapoints extracted from Google BigQuery.
