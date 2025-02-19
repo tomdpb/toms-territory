@@ -2,7 +2,7 @@
 slug: about-me
 title: About Me
 author: Tom
-date: 2024-11-17
+date: 2025-02-19
 lanaguage: en
 weight: 0
 ---
@@ -22,7 +22,7 @@ I also started studying Physics at the University of Brasília (UnB) in 2018 bef
 
 ### IT Administration Specialist
 
-Company: [mementor](https://www.mementor.ch/)
+Company: [mementor DE GmbH](https://www.mementor.ch/)
 
 From 01/2025
 
@@ -30,7 +30,14 @@ Type of work: Full time
 
 #### Tasks
 
-- Stay tuned!
+- Maintenance of Linux servers
+- Hardening server security
+- Intervention in problem cases
+- Ensuring and monitoring data backup
+- Setting up and monitoring user access
+- Setting up fail-safe and scalable systems with cloud solutions
+- Installation and administration of operating and development tools
+- Technical support and assistance with employee inquiries 
 
 ### Data Analyst
 
