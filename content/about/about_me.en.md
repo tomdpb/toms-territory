@@ -96,7 +96,7 @@ Type of work: Part time
 
 ## Spoken Languages
 
-I'm very interested in languages. I've done some research in many languages and scripting systems just out of curiosity. To this day I still remember how I learnt to read the Cyrillic alphabet while I was 14 and was supposed to be studying for a maths exam. Although I'd love to properly learn many more, the ones I currently speak are:
+I'm very interested in languages. I've done some research in many languages and scripting systems just out of sheer curiosity. To this day I still remember how I learnt to read the Cyrillic alphabet when I was 14 and was supposed to be studying for a maths exam. I can still read it, but I have no idea what I'm saying! Although I'd love to properly learn many more, the languages I currently speak are:
 
 - English (native)
 - Portuguese (native)
