@@ -126,6 +126,8 @@ I've got different levels of experience with the following languages, and no, I'
 These are some miscellaneous technologies and frameworks I've previously worked with.
 
 - [Ansible](https://www.ansible.com/)
+- [Asana](https://asana.com/)
+- [Caddy](https://caddyserver.com/)
 - [Confluence](https://www.atlassian.com/software/confluence)
 - [Docker](https://www.docker.com/)
 - [Hugo](https://gohugo.io)
