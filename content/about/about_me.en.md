@@ -22,7 +22,7 @@ I also started studying Physics at the University of Brasília (UnB) in 2018 bef
 
 ### IT Administration Specialist
 
-Company: [mementor DE GmbH](https://www.mementor.ch/)
+Company: [mementor DE GmbH](https://www.mementor.de/)
 
 From 01/2025
 
@@ -37,7 +37,7 @@ Type of work: Full time
 - Setting up and monitoring user access
 - Setting up fail-safe and scalable systems with cloud solutions
 - Installation and administration of operating and development tools
-- Technical support and assistance with employee inquiries 
+- Technical support and assistance with employee inquiries
 
 ### Data Analyst
 
